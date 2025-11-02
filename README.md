@@ -1,1 +1,1 @@
-# Collab file for training le robot models
+# Notebook for training le robot models
